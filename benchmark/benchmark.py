@@ -2945,7 +2945,7 @@ def format_latex_str(str_in: str) -> str:
         str_ = str_.replace(k, v)
         # print(str_)
 
-    str_ = str_.replace("_", "\\_")
+    # str_ = str_.replace("_", "\\_")
     # print("final string is:")
     # print(str_)
 
